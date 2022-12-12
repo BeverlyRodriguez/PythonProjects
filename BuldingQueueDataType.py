@@ -5,3 +5,4 @@ class Queue:
         self.elements = deque()
     
     def enqueue(self,element):
+        self._elements.append(element)
