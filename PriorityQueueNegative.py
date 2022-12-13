@@ -1,5 +1,5 @@
 # This code shows Building a Priority Queque Data Type.
-# This code is for dequeue.
+# This code is for message dequeue.
 
 print("\n\t\t********PROGRAMMED BY:********")
 print("\t\t***BEVERLY ANN L. RODRIGUEZ***\n")
