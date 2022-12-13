@@ -1,3 +1,5 @@
+print("\n\t\t********PROGRAMMED BY:********")
+print("\t\t***BEVERLY ANN L. RODRIGUEZ***\n")
 
 # Python’s tuple comparison, which takes into account the tuple’s 
 # components, looking from left to right until the outcome is known.
