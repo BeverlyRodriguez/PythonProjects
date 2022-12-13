@@ -1,5 +1,7 @@
 # This program is for Representing Priority Queues with a Heap.
 
+print("\n\t\t********PROGRAMMED BY:********")
+print("\t\t***BEVERLY ANN L. RODRIGUEZ***\n")
 
 # The point of a heap isn’t so much about sorting elements but rather keeping them in a
 # certain relationship to allow for quick lookup.
