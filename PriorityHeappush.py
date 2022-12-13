@@ -8,13 +8,13 @@ print("\t\t***BEVERLY ANN L. RODRIGUEZ***\n")
 
 from heapq import heappush
 
-fruits = []
-heappush(fruits, "Orange")
-heappush(fruits, "Apple")
-heappush(fruits, "Banana")
-heappush(fruits, "Mango")
-heappush(fruits, "Grapes")
+vegetables = []
+heappush(vegetables, "Squash")
+heappush(vegetables, "Letuce")
+heappush(vegetables, "Eggplant")
+heappush(vegetables, "Cucumber")
+heappush(vegetables, "Celery")
 
 
-# Fruit names in the resulting heap don’t follow alphabetical order.
-print("\nThese are the elements being sorted:\n\n\t", fruits)
+# Vegatables names in the resulting heap don’t follow alphabetical order.
+print("\nThese are the elements being sorted:\n\n\t", vegetables)
