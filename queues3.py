@@ -1,3 +1,5 @@
+#This queues is for Priority Queue.
+
 from collections import deque
 from heapq import heappop, heappush
 
