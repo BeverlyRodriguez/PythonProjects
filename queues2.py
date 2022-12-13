@@ -1,4 +1,5 @@
 #This queues is for Building Stack Data Type
+#This queues is for TestingLIFO.
 
 from collections import deque
 
