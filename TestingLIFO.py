@@ -1,3 +1,7 @@
+#This program is for Building a Stack Data Type.
+print("\n\t\t********PROGRAMMED BY:********")
+print("\t\t***BEVERLY ANN L. RODRIGUEZ***\n")
+
 from queues2 import Stack
 
 #lifo = Stack("1st", "2nd", "3rd")
