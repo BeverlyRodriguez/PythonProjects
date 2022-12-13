@@ -6,6 +6,9 @@ from collections import deque
 from heapq import heappop, heappush
 from itertools import count
 
+print("\n\t\t********PROGRAMMED BY:********")
+print("\t\t***BEVERLY ANN L. RODRIGUEZ***\n")
+
 class IterableMixin:
     def __len__(self):
         return len(self._elements)
