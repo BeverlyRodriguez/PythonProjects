@@ -6,7 +6,6 @@ print("\t\t***BEVERLY ANN L. RODRIGUEZ***\n")
 
 from queues import Queue
 
-
 #This section is the initial FIFO.
 #fifo = Queue()
 #fifo.enqueue("1st")
