@@ -1,3 +1,7 @@
+# This is for  correct order elements yet violates sort stability
+# when comparing elements with equal priorities.
+ 
+
 from queues4 import PriorityQueue
 from dataclasses import dataclass
 
