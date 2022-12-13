@@ -14,6 +14,7 @@ from collections import deque
 #    def dequeue(self):
 #        return self._elements.popleft()
 
+
 class Queue:
     def __init__(self, *elements):
         self._elements = deque(elements)
