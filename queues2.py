@@ -3,13 +3,13 @@
 from collections import deque
 
 class Queue:
-    def init(self, *elements):
+    def __init__(self, *elements):
         self._elements = deque(elements)
 
-    def len(self):
+    def __len__(self):
         return len(self._elements)
 
-    def iter(self):
+    def __iter__(self):
         while len(self) > 0:
             yield self.dequeue()
 
