@@ -1,3 +1,7 @@
+
+print("\n\t\t********PROGRAMMED BY:********")
+print("\t\t***BEVERLY ANN L. RODRIGUEZ***\n")
+
 from queues3 import PriorityQueue
 
 # priority levels: critical, important, and neutral.
