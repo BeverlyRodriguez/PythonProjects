@@ -1,11 +1,10 @@
+from heapq import heappush
 from heapq import heappop
 
-
 fruits = []
-heappop(fruits, "Orange")
-heappop(fruits, "Apple")
-heappop(fruits, "Banana")
-heappop(fruits, "Mango")
-heappop(fruits, "Grapes")
+heappush(fruits, "Orange")
+heappush(fruits, "Apple")
+heappush(fruits, "Banana")
+heappush(fruits, "Mango")
+heappush(fruits, "Grapes")
 
-heappop(fruits)
