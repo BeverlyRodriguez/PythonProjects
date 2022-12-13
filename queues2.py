@@ -1,14 +1,15 @@
+#This queues is for Building Stack Data Type
+
 from collections import deque
 
-
 class Queue:
-    def __init__(self, *elements):
-        self.elements = deque(elements)
+    def init(self, *elements):
+        self._elements = deque(elements)
 
-    def __len__(self):
+    def len(self):
         return len(self._elements)
 
-    def __iter__(self):
+    def iter(self):
         while len(self) > 0:
             yield self.dequeue()
 
@@ -17,3 +18,7 @@ class Queue:
 
     def dequeue(self):
         return self._elements.popleft()
+
+class Stack(Queue):
+    def dequeue(self):
+        return self._elements.pop()
