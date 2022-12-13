@@ -8,3 +8,4 @@ heappush(fruits, "Banana")
 heappush(fruits, "Mango")
 heappush(fruits, "Grapes")
 
+print(heappop(fruits))
