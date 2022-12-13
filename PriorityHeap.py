@@ -17,4 +17,4 @@ heappush(fruits, "Grapes")
 
 
 # Fruit names in the resulting heap in the example don’t follow alphabetical order.
-print("These are the elements being sorted:\n", fruits)
+print("\nThese are the elements being sorted:\n\n\t", fruits)
