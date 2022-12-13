@@ -1,4 +1,4 @@
-# This program shows Refactoring the Code Using a Mixin Class
+# This program shows Refactoring the Code Using a Mixin Class.
 # To reuse code across unrelated classes, you can identify their least
 # common denominator and then extract that code into a mixin class.
 
