@@ -1,3 +1,6 @@
+# This code shows Building a Priority Queque Data Type.
+# This code is for dequeue.
+
 print("\n\t\t********PROGRAMMED BY:********")
 print("\t\t***BEVERLY ANN L. RODRIGUEZ***\n")
 
