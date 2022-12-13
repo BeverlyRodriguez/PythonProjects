@@ -1,4 +1,4 @@
-#This code is for CornerCaseQueue.
+# This code is for CornerCaseQueue.
 
 from collections import deque
 from heapq import heappop, heappush
