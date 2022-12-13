@@ -1,2 +1,2 @@
-from heapq import
+from heapq import heappop
 
