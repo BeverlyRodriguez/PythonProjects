@@ -1,5 +1,5 @@
-#This program is for building a Queue Data Type.
-
+# This program is for building a Queue Data Type.
+# This queues for TestingFIFO.
 
 from collections import deque
 
