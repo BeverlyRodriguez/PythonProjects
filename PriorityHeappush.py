@@ -16,5 +16,5 @@ heappush(vegetables, "Cucumber")
 heappush(vegetables, "Celery")
 
 
-# Vegatables names in the resulting heap don’t follow alphabetical order.
+# In heappush, the resulting heap do not follow alphabetical order.
 print("\nThese are the elements being sorted:\n\n\t", vegetables)
