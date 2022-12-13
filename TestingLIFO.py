@@ -4,6 +4,7 @@ print("\t\t***BEVERLY ANN L. RODRIGUEZ***\n")
 
 from queues2 import Stack
 
+#This section is the initial LIFO.
 #lifo = Stack("1st", "2nd", "3rd")
 #for element in lifo:
 #    print(element)
