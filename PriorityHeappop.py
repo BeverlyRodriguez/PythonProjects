@@ -1,6 +1,9 @@
+
 from heapq import heappush
 from heapq import heappop
 
+print("\n\t\t********PROGRAMMED BY:********")
+print("\t\t***BEVERLY ANN L. RODRIGUEZ***\n")
 
 # The first element on a heap always has the smallest (min-heap) or the highest (max-heap) 
 # value, depending on how you define the condition for the mentioned relationship. 
