@@ -1,4 +1,5 @@
-#This program shows Building a Priority Queue Data Type (negative number). 
+# This program shows Building a Priority Queue Data Type (negative number). 
+# This queues is for PriorityQueueNegative.
 
 from collections import deque
 from heapq import heappop, heappush
