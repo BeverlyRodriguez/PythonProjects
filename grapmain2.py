@@ -1,3 +1,6 @@
+# This class is for graphrun, graphrun2, graphrun3 and graphrun4.
+
+
 from typing import NamedTuple
 import networkx as nx
 
@@ -28,3 +31,5 @@ def load_graph(filename, node_factory):
         (nodes[name1], nodes[name2], weights)
         for name1, name2, weights in graph.edges(data=True)
     )
+
+
