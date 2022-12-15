@@ -1,6 +1,5 @@
-
-
-
+# Bread First Search Using FIFO Queue.
+# This class is for BreadFirstSearch3.
 
 from queues import Queue
 from typing import NamedTuple
