@@ -14,8 +14,4 @@ print("\n\nNeighbors Cities: \n")
 for neighbor in graph.neighbors(nodes["london"]):
     print(neighbor.name)
 
-#This is for neighbor cities with distance.
-nodes, graph = load_graph("roadmap.dot", City.from_dict)
-print("\n\nNeighbors Cities with Distance: \n")
-for neighbor, weights in graph[nodes["london"]].items():
-    print(weights["distance"], neighbor.name)
+
