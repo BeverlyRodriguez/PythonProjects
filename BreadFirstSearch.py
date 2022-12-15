@@ -1,3 +1,8 @@
+#Breadth First Search Using a FIFO Queue.
+
+print("\n\t\t********PROGRAMMED BY:********")
+print("\t\t***BEVERLY ANN L. RODRIGUEZ***\n")
+
 import networkx as nx
 from grapmain2 import City, load_graph
 
