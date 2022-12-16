@@ -8,6 +8,7 @@
 # queue.Queue
 # queue.LifoQueue
 # queue.PriorityQueue
+# Use 3.10 interpreter
 
 import argparse
 from queue import LifoQueue, PriorityQueue, Queue
