@@ -1,4 +1,6 @@
-
+# Thread Safe
+#  Python provides a few synchronized queue types that you can safely use on multiple threads to facilitate communication between them.
+# 
 import argparse
 from queue import LifoQueue, PriorityQueue, Queue
 import threading
