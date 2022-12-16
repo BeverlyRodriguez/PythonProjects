@@ -1,6 +1,11 @@
 # Thread Safe
-#  Python provides a few synchronized queue types that you can safely use on multiple threads to facilitate communication between them.
-# 
+# Python provides a few synchronized queue types that you can safely use on 
+# multiple threads to facilitate communication between them.
+# Implementing the classic multi-producer, multi-consumer problem.
+# There is an animated simulation of the producer and consumer threads.
+# This will let you add colors, emojis, and visual components to your terminal.
+
+
 import argparse
 from queue import LifoQueue, PriorityQueue, Queue
 import threading
