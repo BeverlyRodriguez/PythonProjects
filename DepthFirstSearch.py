@@ -1,3 +1,8 @@
+# Depth-First Search Using a LIFO Queue.
+# The depth-first traversal follows a path from the source node by 
+# plunging into the graph as deeply as possible before backtrackinG
+# to the last edge crossing and trying another branch.
+
 import networkx as nx
 from graphmain3 import City, load_graph
 
