@@ -5,7 +5,9 @@
 # There is an animated simulation of the producer and consumer threads.
 # This will let you add colors, emojis, and visual components to your terminal.
 
-
+# queue.Queue
+# queue.LifoQueue
+# queue.PriorityQueue
 
 import argparse
 from queue import LifoQueue, PriorityQueue, Queue
